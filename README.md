@@ -106,6 +106,6 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VanHung-05&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=VanHung-05&label=Profile+Views&color=007ACC&style=for-the-badge" alt="Profile Views" />
   
 </div>
