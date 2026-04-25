@@ -79,14 +79,14 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VanHung-05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanHung-05&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" alt="Top Langs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VanHung-05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanHung-05&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00d9ff&text_color=c9d1d9" alt="Top Langs" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VanHung-05&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VanHung-05&theme=tokyonight&hide_border=true&background=1a1b26&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" alt="GitHub Streak" />
 </div>
 
 ---
@@ -94,7 +94,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanHung-05&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanHung-05&theme=tokyo-night&bg_color=1a1b26&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
