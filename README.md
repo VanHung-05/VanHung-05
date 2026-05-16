@@ -77,8 +77,9 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VanHung-05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanHung-05&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00d9ff&text_color=c9d1d9" alt="Top Langs" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VanHung-05&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VanHung-05&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
