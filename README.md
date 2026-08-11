@@ -85,7 +85,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VanHung-05&theme=tokyonight&hide_border=true&background=1a1b26&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" alt="GitHub Streak" />
+  <img src="https://git-streak-app.vercel.app?user=VanHung-05&theme=tokyonight&hide_border=true&background=1a1b26&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" alt="GitHub Streak" />
 </div>
 
 ---
