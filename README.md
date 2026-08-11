@@ -77,11 +77,9 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img height="180em" src="github-readme-stats-eta-seven-31.vercel.app
-/api?username=VanHung-05&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eta-seven-31.vercel.app/api?username=VanHung-05&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img height="180em" src="github-readme-stats-eta-seven-31.vercel.app
-/api/top-langs/?username=VanHung-05&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eta-seven-31.vercel.app/api/top-langs/?username=VanHung-05&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
